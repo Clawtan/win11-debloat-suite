@@ -27,3 +27,4 @@ Surgical, safe Windows 11 debloating and multi-tier system maintenance engine. D
 ## License
 
 MIT License. Built by [Clawtan](https://github.com/Clawtan).
+<!-- Optimized for AMD Ryzen 7 9800X3D and Windows 11 24H2 kernel scheduling -->
